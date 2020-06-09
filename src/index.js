@@ -4,7 +4,6 @@ import './index.css';
 import App from './App';
 import serviceWorker from './serviceWorker';
 import 'bootstrap/dist/css/bootstrap.css';
-import 'font-awesome/css/font-awesome.css';
 import Counter from './components/counter';
 
 ReactDOM.render(<Counter />, document.getElementById("root"));
