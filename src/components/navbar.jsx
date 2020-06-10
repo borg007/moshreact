@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+//Lifecycle hooks can only be used in class components
 //Stateless Functional Component
 const NavBar = ({ totalCounters }) => {
         return (  
